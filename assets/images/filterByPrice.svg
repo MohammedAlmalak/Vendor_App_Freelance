@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="118.003" height="23" viewBox="0 0 118.003 23">
+  <g id="Group_2731" data-name="Group 2731" transform="translate(-123 -183)">
+    <g id="_8679884_arrow_up_down_line_icon" data-name="8679884_arrow_up_down_line_icon" transform="translate(241.003 187.093) rotate(90)">
+      <path id="Path_2772" data-name="Path 2772" d="M0,0H13.657V13.657H0Z" fill="none"/>
+      <path id="Path_2773" data-name="Path 2773" d="M7.684,5.817l-.8.8L5.436,5.178v7.5H4.3v-7.5L2.855,6.621l-.805-.8L4.867,3Zm5.691,4.609-2.817,2.817L7.741,10.426l.8-.8,1.444,1.443v-7.5h1.138v7.5L12.57,9.622l.8.8Z" transform="translate(-0.883 -1.293)" fill="#f26511"/>
+    </g>
+    <text id="التصنيف_بحسب_السعر" data-name="التصنيف بحسب السعر" transform="translate(133.37 197)" fill="#989898" font-size="11" font-family="Cairo-Light, Cairo" font-weight="300"><tspan x="0" y="0">التصنيف بحسب السعر</tspan></text>
+    <g id="Rectangle_1982" data-name="Rectangle 1982" transform="translate(123 183)" fill="none" stroke="#707070" stroke-width="0.25">
+      <rect width="118" height="23" rx="5" stroke="none"/>
+      <rect x="0.125" y="0.125" width="117.75" height="22.75" rx="4.875" fill="none"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="57" height="23" viewBox="0 0 57 23">
+  <g id="Group_2764" data-name="Group 2764" transform="translate(-230 -183)">
+    <text id="الفرع" transform="translate(245.5 197.91)" fill="#989898" font-size="11" font-family="Cairo-Light, Cairo" font-weight="300"><tspan x="0" y="0">الفرع</tspan></text>
+    <g id="Rectangle_1983" data-name="Rectangle 1983" transform="translate(230 183)" fill="none" stroke="#707070" stroke-width="0.25">
+      <rect width="57" height="23" rx="5" stroke="none"/>
+      <rect x="0.125" y="0.125" width="56.75" height="22.75" rx="4.875" fill="none"/>
+    </g>
+    <path id="building" d="M8.3,5.149h.525a.525.525,0,0,0,0-1.05H8.3a.525.525,0,0,0,0,1.05Zm0,2.1h.525a.525.525,0,1,0,0-1.05H8.3a.525.525,0,0,0,0,1.05Zm-2.625-2.1H6.2a.525.525,0,0,0,0-1.05H5.674a.525.525,0,1,0,0,1.05Zm0,2.1H6.2a.525.525,0,0,0,0-1.05H5.674a.525.525,0,1,0,0,1.05Zm6.3,4.2h-.525V2.525A.525.525,0,0,0,10.923,2H3.575a.525.525,0,0,0-.525.525v8.923H2.525a.525.525,0,0,0,0,1.05h9.448a.525.525,0,0,0,0-1.05Zm-4.2,0H6.724v-2.1h1.05Zm2.625,0H8.824V8.824A.525.525,0,0,0,8.3,8.3H6.2a.525.525,0,0,0-.525.525v2.625H4.1V3.05h6.3Z" transform="translate(268.502 187.251)" fill="#f26511"/>
+  </g>
+</svg>
